@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  This project is website is a resume which shows my personal information, where I went to school and how to reach out to me.
+  This project includes making a website resume which shows my personal information, where I went to school and how to reach out to me.
 </div>
 
 <br />
