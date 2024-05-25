@@ -62,8 +62,6 @@ This project shows the progression of my learning in using html and CSS by creat
 Guiding Question:
 - The Project is making a resume about myself
 - To keep track of my progression of learning html and CSS
-- What are key components
-- What technology used and how it is used
 
 ### Key Components
 <!-- TODO: List of Key Components -->
