@@ -108,4 +108,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Create a resume website in your browser with VS Code and GitHub Pages | I referenced how the video formatted the resume | https://www.youtube.com/watch?v=srQjolk7rj8&t=131s&ab_channel=VisualStudioCode |
